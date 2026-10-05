@@ -92,8 +92,7 @@ def main() -> None:
         "two monitoring tools with low licence usage",
         "vendor wants a 20 percent price increase at renewal",
         "we no longer need this tool at all, how do we exit",
-        "what is the traver policy",
-        "what is the name of the director"  
+         
     ]
 
     print("Testing retrieval\n" + "=" * 55)
